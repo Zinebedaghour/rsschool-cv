@@ -1,4 +1,4 @@
-1. Zineb Edaghour
+1. **Zineb Edaghour**
 2. [Email address](edaghourzineb22@gmail.com) , [Linkedin](https://www.linkedin.com/in/edaghour-z-9b6a08177/)
 3. Summary: I am an English teacher who is planning to switch career and become a front-end developer.
 4. Html , **Css**, **Javascript**, Git
